@@ -29,22 +29,22 @@ Before running the application, ensure that you have the following prerequisites
 
 ## Features
 
-###CRUD Operations
+##CRUD Operations
 The application provides Create, Read, Update, and Delete operations for managing data. It demonstrates how to interact with a database using Entity Framework and perform basic CRUD operations.
 
 Authentication
 Authentication functionality is implemented to secure the application. Users can register, log in, and log out using their credentials. The application demonstrates how to handle user authentication and protect sensitive areas of the application.
 
-###SQL Server Integration
+##SQL Server Integration
 The application integrates with SQL Server to store and retrieve data. It utilizes Entity Framework as an Object-Relational Mapping (ORM) tool to simplify database interactions and data management.
 
-###Security Measures
+##Security Measures
 The application incorporates various security measures to protect against common web vulnerabilities. These measures include input validation, parameterized queries, and protection against Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) attacks.
 
-###Routing
+##Routing
 The application employs routing to map URLs to controller actions, enabling clean and user-friendly URLs. It demonstrates how to define and configure routes to handle incoming requests.
 
-###Contributing
+##Contributing
 Contributions to this repository are welcome. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue.
 
 #License
