@@ -4,7 +4,7 @@ namespace WebApplication2.Models
 {
     public class Category
     {
-        [Key]//optional
+        [Key]//optional to be primary key in the table
         public int Id { get; set; }
         [Required]//
         public string Name { get; set; }
